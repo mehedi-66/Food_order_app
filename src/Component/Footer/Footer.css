@@ -1,0 +1,15 @@
+.footer{
+    height: 40px;
+    background-color: #a9421c;
+    display: block;
+    overflow: hidden;
+}
+.footer p{
+    text-align: center;
+    margin: 12px;
+    color: white;
+}
+.footer a{
+    text-decoration: none;
+    color: #09188c;
+}

@@ -1,0 +1,34 @@
+.cart{
+    float: right;
+    width: 177px;
+    background-color: #3c3c3c;
+    box-sizing: border-box;
+    padding: 5px 0px 8px 11px;
+    margin: 8px 74px 0px 0px;
+    border-radius: 14px;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+}
+.cart > span{
+
+}
+.cart-item{
+    float: right;
+    margin: 0px 46px 0px 0px;
+    width: 33px;
+    height: 20px;
+    background-color: #ca1f0e;
+    border-radius: 7px;
+    font-size: 17px;
+    text-align: center;
+}
+@media screen and (max-width: 650px) {
+    .cart{
+        
+        padding: 5px 0px 8px 11px;
+        margin: 8px 5px 0px 0px;
+       
+    }
+    
+}

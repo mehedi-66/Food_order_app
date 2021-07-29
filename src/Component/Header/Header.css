@@ -1,0 +1,16 @@
+.header{
+    width: 100%;
+    overflow: hidden;
+    background-color: #A9421C;
+    height: 50px;
+    position: fixed;
+}
+.header-logo{
+
+    float: left;
+    margin: 14px 0px 0px 65px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+
+}
